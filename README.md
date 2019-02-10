@@ -1,5 +1,6 @@
 # wizardchess
 HackKU project - Chess powered by Alexa, a Raspi, motors, and magnets
+
 Group members:
 Dmitri Smith (Computer Engineering)
 Chauncey Hester (Computer Engineering)
@@ -23,6 +24,8 @@ Flask-Ask is leveraged to communicate between alexa and pi.
 The chess board and piece logic is handled on the pi, and the entire project is written in Python.
 The pieces each have a small but powerful magnet in their base. Below the board, two stepper motors connected to 
 all-thread rods move an electromagnet that is used to drag the pieces as if by magic.
+
+Many thanks to all the people who helped us out including Ian Kim and the wonderful students and mentors who hosted this year's HackKU!
 
 TODO:
 Add pictures of the setup
